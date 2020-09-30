@@ -1,0 +1,5 @@
+vladimir@LAPTOP-I0R288N5:~$ nano ex2.c
+vladimir@LAPTOP-I0R288N5:~$ nano lab71.txt
+vladimir@LAPTOP-I0R288N5:~$ gcc ex2.c
+vladimir@LAPTOP-I0R288N5:~$ size -f ex2 >> lab71.txt
+vladimir@LAPTOP-I0R288N5:~$ cat lab71.txt
